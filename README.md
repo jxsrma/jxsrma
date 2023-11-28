@@ -1,10 +1,7 @@
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400">
-<br><br>
-<h1 align="center">Hi 👋, I'm Jash Sharma</h1>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400"></p>
+<h1 align="center">I'm Jash Sharma</h1>
 <h3 align="center">A software developer from India</h3>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
-<br><br>
-
+<p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxsrma&label=Profile%20views&color=0e75b6&style=flat" alt="jxsrma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jxsrma" alt="jxsrma" /></a> </p>
